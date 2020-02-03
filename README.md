@@ -1,4 +1,4 @@
-#Scripts for sharepoint online
+# Scripts for sharepoint online
 
 SharePoint Online Client Components SDK enables to perform activities on SharePoint online via powershell commands
 
