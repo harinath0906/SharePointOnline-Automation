@@ -6,6 +6,10 @@ SharePoint Online Client Components SDK can be downloaded from https://www.micro
 
 ## Uploading files to sharepoint library
 
-Upload_big_files_sharepoint_v3.ps1 - is an example for uploading files to a folder in a given sharepoint libraray
+Upload_big_files_sharepoint_v3.ps1 - is an example for uploading files to a folder in a given sharepoint library
 
 Big files needs to be handled specially while uploading to sharepoint the same is also demonstrated in the code
+
+## Downloading files to sharepoint library
+download_sharepointfile_v3.ps1  - is an example for downloading files from a provided Sharepoint URL to a specified fodler
+
